@@ -6,6 +6,8 @@ Dynamic Wrapper is a high-performance, single-file progressive web application (
 ![JS](https://img.shields.io/badge/Vanilla-JavaScript-yellow?style=for-the-badge)
 ![PWA](https://img.shields.io/badge/PWA-Capable-orange?style=for-the-badge)
 
+<img width="1562" height="640" alt="github_social_tagline" src="https://github.com/user-attachments/assets/e4878901-22dc-4f99-a45d-9cbf641fe0f9" />
+
 ## Features
 
 - **Quick Launch Tiles Customization:** Pre-configured shortcuts for frequent web targets (Wikipedia, Archive.org, etc.) with the ability to add, configure, and instantly remove your own personalized site tiles.
@@ -25,6 +27,8 @@ Boost your productivity inside the workspace with integrated hardware hotkeys:
 | `Ctrl + R` | Hard reload the current embedded application frame |
 | `Alt + Home` | Kill current frame instance and return to home dashboard |
 | `F11` | Toggle Focus Mode (Enter/Exit distracting header frame) |
+
+<img width="2446" height="1303" alt="dw" src="https://github.com/user-attachments/assets/8b8256cc-aebe-4931-96f6-87df5fd5cded" />
 
 ## Installation
 
