@@ -33,7 +33,7 @@ Because Dynamic Wrapper is built entirely in a unified, context-aware single fil
 ### Direct Local Execution
 1. Clone the repository or download the source file:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/dynamic-wrapper.git](https://github.com/YOUR_USERNAME/dynamic-wrapper.git)
+   git clone [https://github.com/vojislav77.github.io/dynamic-wrapper.git](https://github.com/vojislav77.github.io/dynamic-wrapper.git)
 2. Navigate into the directory and open index.html directly in any standard, modern browser.
 
 ## Understanding Embedding Security (Why some sites stay blank)
